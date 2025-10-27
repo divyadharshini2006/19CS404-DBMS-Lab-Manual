@@ -166,7 +166,6 @@ join salesman s on o.salesman_id=s.salesman_id
 
 <img width="1984" height="1426" alt="image" src="https://github.com/user-attachments/assets/3cb96604-ff9c-4dcb-b060-34653b860a16" />
 
-
 **Question 8**
 ---
 <img width="1974" height="1278" alt="image" src="https://github.com/user-attachments/assets/ce8a3c11-5344-4ea4-9d1b-913645431317" />
